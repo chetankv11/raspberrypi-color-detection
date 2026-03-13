@@ -1,0 +1,9 @@
+opencv-python
+numpy
+picamera2
+
+
+'''
+install using below code
+"pip install -r requirements.txt"
+'''
